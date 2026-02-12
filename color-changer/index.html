@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COLOR CHANGER</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    nav{
+        display: flex;
+        justify-content: space-evenly;
+        font-size: 2rem;
+        background-color: #212121;
+        color: #fff;
+        padding: 15px;
+        
+    }
+    nav a{
+        text-decoration: none;
+        color: #fff;
+    }
+    .button{
+        height: 100px;
+        width: 100px;
+        background-color: red;
+        border: none;
+        cursor: pointer;
+        border: 2px solid black;
+    }
+    #grey{
+        background-color: grey;
+    }
+    #white{
+        background-color: white;
+    }
+    #blue{
+        background-color: blue;
+    }
+    #yellow{
+        background-color: yellow;
+    }
+    .color-change{
+        text-align: center;
+        margin-top: 5%;
+    }
+    .color-change h2{
+        margin-top: 30px;
+    }
+</style>
+<body>
+     <nav>
+        <a href="/">Home</a>
+        <a href="/">About</a>
+     </nav>
+     <div class="color-change">
+        <h1>Color Scheme Switcher</h1>
+        <button class="button" id="grey"></button>
+        <button class="button" id="white"></button>
+        <button class="button" id="blue"></button>
+        <button class="button" id="yellow"></button>
+        <h2>Try clicking on one of the colors above</h2>
+        <span>to change the background color of this page </span>
+     </div>
+     
+</body>
+<script src="test.js"></script>
+</html>
