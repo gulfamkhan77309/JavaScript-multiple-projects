@@ -1,4 +1,4 @@
-#🚀 JavaScript Projects Collection
+# 🚀 JavaScript Projects Collection
 
 Hi 👋 I'm Gulfam Khan
 Frontend Developer | HTML • CSS • JavaScript
@@ -7,7 +7,7 @@ Here are some of my beginner-friendly JavaScript projects:
 
 ---
 
-##📌 Projects List
+## 📌 Projects List
 
 ---
 
@@ -73,7 +73,7 @@ Here are some of my beginner-friendly JavaScript projects:
 
 ---
 
-###🛠️ Tech Used
+### 🛠️ Tech Used
 
 - HTML5
 
@@ -85,6 +85,6 @@ Here are some of my beginner-friendly JavaScript projects:
 
 ---
 
-###📈 Goal
+### 📈 Goal
 
 Improving my JavaScript skills by building small practical projects 🚀
