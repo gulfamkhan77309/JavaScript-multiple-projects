@@ -87,4 +87,4 @@ Here are some of my beginner-friendly JavaScript projects:
 
 ### 📈 Goal
 
-Improving my JavaScript skills by building small practical projects 🚀
+Improving my JavaScript skills by building small practical projects 
