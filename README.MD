@@ -88,3 +88,15 @@ Here are some of my beginner-friendly JavaScript projects:
 ### 📈 Goal
 
 Improving my JavaScript skills by building small practical projects 
+
+---
+
+## LIVE DEMO:-
+
+- BMI calculator = https://gulfamkhan77309.github.io/JavaScript-multiple-projects/BMI-calculator/
+- Color changer = https://gulfamkhan77309.github.io/JavaScript-multiple-projects/color-changer/
+- Digital clock = https://gulfamkhan77309.github.io/JavaScript-multiple-projects/Digital-Clock/
+- Guess the number = https://gulfamkhan77309.github.io/JavaScript-multiple-projects/Guess-the-number/
+- Keyboard check = https://gulfamkhan77309.github.io/JavaScript-multiple-projects/Keyboard-check/
+- Unlimited colors = https://gulfamkhan77309.github.io/JavaScript-multiple-projects/Unlimited-colors/
+
